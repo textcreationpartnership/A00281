@@ -35,11 +35,51 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A defense of the ecclesiasticall regiment in Englande defaced by T. C. in his replie agaynst D. VVhi
+
+1. ¶A briefe Table of the Contentes of this Booke.
+
 #####Body#####
 
+1. The Defense of the Ecclesiasticall Regiment.
+
+    _ Sacrificing Priests may be Ministers of the Gospell.
+
+    _ Of apparell of Ministers.
+
+    _ Of Bishops titles, lāds. &c.
+
+    _ Of an Archbishop.
+
+    _ Of Bishops liuings.
+
+    _ That Bishops may intermeddle in ciuill causes.
+
+    _ Of Dispensations.
+
+    _ Of the Presbyterie.
+
+    _ Of kneeling at the Communion.
+
+    _ Of Holydayes.
+
+    _ Of mourning for the dead.
+
+    _ That ministers ought to burie the dead.
+
+    _ Of Womens veyles.
+
+    _ Of interrogatories ministred to Infantes.
+
+    _ Of the signe of the the Crosse.
+
+    _ Of Fasting.
+
+    _ Of Singing.
+
 #####Back#####
-A defense of the ecclesiasticall regiment in Englande defaced by T. C. in his replie agaynst D. VVhi
+
+1. Faultes escaped in the Print.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
